@@ -2,7 +2,8 @@
 
 ## Overview of Project
 ### Purpose
-To improve the efficiency of a code that analyzes stock data by refactoring it to decrease the run time. The refactored code should allow the client to run larger data sets in notably less time than with the original script. 
+To improve the efficiency of a code that analyzes stock data by refactoring it to decrease the run time. The refactored code should allow the client to run larger data sets in notably less time than with the original script. I worked on this code in collaboration with Nick Foley and Sruthi Vayuvegula.
+
 ### Background 
 Steve, the client, requested analysis of environmentally friendly “green” stocks for his parents’ investment. Initially he requested analysis of the Daqo stock, but then expanded his inquiry to cover additional green stocks after the initial analysis showed notable losses over the two years of data. We provided Steve with a macro with a user-friendly button that will run stock analysis over green stocks for the year inputted. After completing his initial project, Steve requested that we modify the code so that he can analyze the entire stock market over the past few years. Because the initial code was designed for a smaller dataset, refactoring the code made it more efficient to later be modified to run over the entire stock market dataset.
 ## Analysis and Results
